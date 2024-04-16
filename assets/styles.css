@@ -51,7 +51,7 @@ transition: 0.3s ease;
 }
 
 .logo span {
-    text-shadow: 0 0 15px var(--main-color);
+    text-shadow: 0 0 10px var(--main-color);
 }
 .navbar a {
     font-size: 1.2rem;
